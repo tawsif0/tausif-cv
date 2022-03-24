@@ -1,0 +1,76 @@
+*{
+  margin: 0;
+  padding: 0;
+}
+#intro{
+  background-color: aqua;
+  color: black;
+ 
+ 
+  font-size: 50px;
+  margin: 20px;
+  border: 70px solid aqua;
+  padding: 50px;
+
+
+}
+hr{
+  margin: 20px;
+             
+}
+#name{
+  margin: 20px;
+  font-size: 25px;
+  color: rebeccapurple;
+}
+body{
+  background-color: antiquewhite;
+}
+#myself{
+  font-size: 20px;
+  margin: 20px;
+}
+#mysel{
+  font-size: 20px;
+  margin: 20px;
+}
+button{
+  font-size: 15px;
+  -moz-text-blink: 20px;
+}
+#bttn{
+  margin: 20px;
+}
+table,td,th{
+
+
+  border: 1px solid black;
+  border-collapse: collapse;
+  padding: 15px;
+}
+caption{
+  padding: 15px;
+  color: burlywood;
+  font-size: 30px;
+}
+img{
+  width: calc( 100% - 20px ) ;
+  
+  padding: 20px;
+}
+#end{
+  background-color: black;
+  color: aliceblue;
+
+ 
+  font-size: 50px;
+  margin: 20px;
+  
+        border: 50px solid black;
+        
+        
+}
+#en{
+  margin: 20px;
+  font-size: 15px;
+}
